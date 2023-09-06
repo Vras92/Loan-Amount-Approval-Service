@@ -1,0 +1,30 @@
+[
+  {
+    "customerId": "1-123-12345G",
+    "loanAmount": 60000.0,
+    "approvers": [
+      {
+        "username": "P998XYZ",
+        "status": "PENDING"
+      }
+    ],
+    "loanType": "GENERAL",
+    "loanContractStatus": "PENDING",
+    "createdDate": "2023-09-05T18:21:24.0450078",
+    "sentToCustomerDate": "Not approved yet"
+  },
+  {
+    "customerId": "2-123-12345G",
+    "loanAmount": 4050.9,
+    "approvers": [
+      {
+        "username": "P998ABC",
+        "status": "PENDING"
+      }
+    ],
+    "loanType": "GENERAL",
+    "loanContractStatus": "PENDING",
+    "createdDate": "2023-09-05T19:17:06.8549747",
+    "sentToCustomerDate": "Not approved yet"
+  }
+]
