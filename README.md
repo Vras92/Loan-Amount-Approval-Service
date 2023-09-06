@@ -39,7 +39,7 @@ and PUT requests.
 #### Sent contracts statistics during a period in minutes:
 statistics.sent.contracts.minutes.default=1
 
-#### Cache update time in minutes:
+#### Cache update time in minutes for statistics:
 cache.update.time=1
 
 ## URLs
